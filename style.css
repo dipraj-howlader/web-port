@@ -5,6 +5,11 @@ h1{
     font-size: 50px;
     font-family: 'Redressed', cursive;
 }
+h2{
+    font-size: 40px;
+font-family: 'Big Shoulders Stencil Text', cursive;
+font-family: 'Lobster', cursive;
+}
 #clr{
     color:orange;
 }
@@ -35,4 +40,12 @@ section{
     color: white;
     font-weight: bold;
     background-image: linear-gradient(45deg,lightSalmon , Tomato);
+}
+#know{
+    color: rgba(124, 109, 161, 0.842);
+    text-decoration: none;
+    font-weight: bold;
+}
+p{
+    color: dimgray;
 }
