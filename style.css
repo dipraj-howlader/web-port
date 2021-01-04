@@ -7,8 +7,7 @@ h1{
 }
 .big-dream{
     font-size: 40px;
-font-family: 'Big Shoulders Stencil Text', cursive;
-font-family: 'Lobster', cursive;
+    font-family: 'Redressed', cursive;
 }
 .clr{
     color:orange;
@@ -64,6 +63,7 @@ p{
     background-image: url("image/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    padding-inline: 10px;
 }
 #full-stack{
     border-left: 7px solid ;
@@ -75,4 +75,9 @@ p{
     border-left: 7px solid ;
     border-image: linear-gradient( 180deg,blue, cyan);
     border-image-slice:2 ;
+}
+#exp{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(112, 73, 175);
+    
 }
